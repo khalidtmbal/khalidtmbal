@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on back end
-- 📫 How to reach me i don.t know how
+- 📫 How to reach me 0122306591 
 
 <!---
 khalidtmbal/khalidtmbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
